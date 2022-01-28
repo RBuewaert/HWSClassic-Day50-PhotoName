@@ -1,6 +1,6 @@
 # Hacking With Swift Classic : Challenge Day 50 : PhotoName
 
-Simple project to create custom UITableViewCell and utilisation of Codable Protocol to save user values and picture.
+Simple project to create custom UITableViewCell and utilisation of Codable Protocol and UserDefault to save user values and picture.
 
 <img width="317" alt="PhotoName" src="https://user-images.githubusercontent.com/79987744/151378406-37e33eef-5210-4802-8620-0f88b3d953c9.png">
 
